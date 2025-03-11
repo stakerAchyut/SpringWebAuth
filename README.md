@@ -14,8 +14,7 @@ This repository demonstrates how to implement authentication in a Spring Boot we
 - **Spring Boot** – For building the web application  
 - **Spring Security** – For authentication and authorization  
 - **Hibernate & JPA** – For database interaction  
-- **H2/MySQL** – As the database (configurable)  
-- **Thymeleaf** – For rendering UI views  
+- **MySQL** – As the database (configurable)    
 - **Maven** – For dependency management  
 
 ## Setup and Installation
