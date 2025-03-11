@@ -33,9 +33,6 @@ This repository demonstrates how to implement authentication in a Spring Boot we
 3. Build and run the application:
    mvn spring-boot:run
 
-4. Access the application at:
-   http://localhost:8080
-
 User Credentials
 By default, the application may include some predefined users. Check the database or configure users in UserDetailsService.
 
